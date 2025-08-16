@@ -30,9 +30,6 @@
 ### Data Engineering & Backend
 <p>
   <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
-  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Amazon Redshift-8C1A24?style=for-the-badge&logo=amazonredshift&logoColor=white">
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
